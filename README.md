@@ -6,7 +6,7 @@ I'm an undergraduate student who loves coding and solving problems. I enjoy lear
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+
 
 - :school:  I’m an Undergraduate at SLIATE
 - :technologist: I love using Software as a solution for every `Problem`.
